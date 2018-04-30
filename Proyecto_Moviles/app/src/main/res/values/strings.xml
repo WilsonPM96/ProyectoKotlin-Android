@@ -3,4 +3,23 @@
     <string name="title_activity_actividad_autos">Concesionario Ferrari</string>
     <string name="action_settings">Ajustes</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="texto_bienvenida">Bienvenido al Concesionario Ferrari</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="textViewPres">Ferrari 2018</string>
+    <string name="textView">Ferrari GTB 488</string>
+    <string name="button_sound">Escuchar</string>
+    <string name="button_img">Conoce más</string>
+    <string name="button_sound2">Escuchar</string>
+    <string name="button_img2">Conoce más</string>
+    <string name="button_sound3">Escuchar</string>
+    <string name="button_img3">Conoce más</string>
+    <string name="button_sound4">Escuchar</string>
+    <string name="button_img4">Conoce más</string>
+    <string name="button_sound5">Escuchar</string>
+    <string name="button_img5">Conoce más</string>
+    <string name="button_sound6">Escuchar</string>
+    <string name="button_img6">Conoce más</string>
+    <string name="button_sound7">Escuchar</string>
+    <string name="button_img7">Conoce más</string>
+
 </resources>

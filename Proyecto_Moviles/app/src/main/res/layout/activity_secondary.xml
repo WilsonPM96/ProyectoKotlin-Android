@@ -8,7 +8,7 @@
     tools:context=".SecondaryActivity">
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textViewPres"
         android:layout_width="145dp"
         android:layout_height="36dp"
         android:layout_marginBottom="8dp"
@@ -17,7 +17,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="Ferrari 2018"
+        android:text="@string/textViewPres"
         android:textColor="@android:color/black"
         android:textSize="24sp"
         android:textStyle="bold"
